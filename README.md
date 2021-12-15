@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](design/desktop-design.jpg)
-![](design/active-states.jpg)
+![](images/desktop-design.jpg)
+![](images/active-states.jpg)
 
 ### Links
 
